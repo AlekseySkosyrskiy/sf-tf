@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"consul","Source":"file:///home/alex/modul","Dir":".terraform/modules/consul"},{"Key":"ya_instance_1","Source":"../modul","Dir":"../modul"},{"Key":"ya_instance_2","Source":"../modul","Dir":"../modul"},{"Key":"","Source":"","Dir":"."}]}
